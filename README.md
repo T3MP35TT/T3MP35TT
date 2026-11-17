@@ -69,31 +69,6 @@ Most of what I build involves **Python, SQL, dashboards, and a bit of curiosity*
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=T3MP35TT&theme=tokyonight" alt="GitHub stats" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=T3MP35TT&theme=tokyonight" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=T3MP35TT&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=T3MP35TT&theme=github-dark&area=true&hide_border=true&hide_title=true&days=31" alt="GitHub activity over the last 31 days" width="100%" />
-</p>
-
-<!--
-OPTIONAL: Snake animation of your contribution graph.
-Needs the Platane/snk GitHub Action to generate the SVG into an "output" branch.
-Once set up, uncomment this:
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/T3MP35TT/T3MP35TT/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
--->
-
 ---
 
 ## 🔬 My GitHub, analysed
