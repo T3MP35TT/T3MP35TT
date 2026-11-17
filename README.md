@@ -1,5 +1,20 @@
 <h1 align="center">Hey, I'm Kartikey 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Business+Intelligence;Python+%7C+SQL+%7C+Power+BI+%7C+Streamlit;Turning+messy+data+into+clear+decisions" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/btwitskartiksinghdatanalyst/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://sites.google.com/view/kartikeysingh09/home"><img src="https://img.shields.io/badge/Portfolio-Visit-4B6CB7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://x.com/btwitskartik"><img src="https://img.shields.io/badge/X-@btwitskartik-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=T3MP35TT&label=Profile+views&color=2F81F7&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
+## 👨‍💻 About me
+
 <img align="right" src="./analytics.gif" alt="Animated data analytics illustration" width="280" />
 
 I'm into **data analytics, business intelligence, and finding useful stories in data**. I enjoy taking a dataset from its messy beginnings, exploring what's happening, and turning the findings into something clear and useful.
@@ -11,71 +26,76 @@ Most of what I build involves **Python, SQL, dashboards, and a bit of curiosity*
 - 🧪 I'm interested in statistical analysis, forecasting, and testing ideas.
 - 🌱 Always learning, experimenting, and building something new.
 
-<p>
-  <a href="https://www.linkedin.com/in/btwitskartiksinghdatanalyst/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://sites.google.com/view/kartikeysingh09/home"><img src="https://img.shields.io/badge/Portfolio-Visit-4B6CB7?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/T3MP35TT"><img src="https://img.shields.io/badge/GitHub-T3MP35TT-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://x.com/btwitskartik"><img src="https://img.shields.io/badge/X-@btwitskartik-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-</p>
-
 <br clear="right" />
 
 ---
 
-## 🧰 Tools I use
+## 🧰 Tech stack
 
-These are the tools and technologies you'll find across my notebooks, dashboards, and analytics applications.
+**🐍 Languages & data analysis**
 
-### 🐍 Languages & data analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+**📊 BI & dashboards**
 
-### 📊 BI & dashboards
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square&logo=powerbi&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+**🤖 Machine learning & application tools**
 
-### 🤖 Machine learning & application tools
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+**🗄️ Data & version control**
 
-### 🗄️ Data & version control
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub activity
-
-A live look at my public GitHub activity over the last 31 days. The graph is generated dynamically, so it updates as my GitHub activity changes.
+## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=T3MP35TT&amp;theme=github-dark&amp;area=true&amp;hide_border=true&amp;hide_title=true&amp;days=31" alt="T3MP35TT's GitHub activity over the last 31 days" width="100%" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=T3MP35TT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T3MP35TT&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=T3MP35TT&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=T3MP35TT&theme=github-dark&area=true&hide_border=true&hide_title=true&days=31" alt="GitHub activity over the last 31 days" width="100%" />
+</p>
+
+<!--
+OPTIONAL: Snake animation of your contribution graph.
+Needs the Platane/snk GitHub Action to generate the SVG into an "output" branch.
+Once set up, uncomment this:
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/T3MP35TT/T3MP35TT/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+-->
 
 ---
 
 ## 🧭 How I like to work with data
-
-My usual approach is pretty simple:
 
 ```text
 Start with a question
@@ -110,9 +130,11 @@ I try to keep the process honest: understand the question first, check that the 
 
 ## 📂 Things I've been building
 
-Here’s a collection of things I've worked on, grouped by the kind of question or domain they explore. Each link takes you to the repository for the code, notebooks, dashboards, and notes.
+Grouped by the kind of question or domain they explore. Each link takes you to the repository for the code, notebooks, dashboards, and notes.
 
-### 🛍️ Business, Customer & Marketing Analytics
+<details open>
+<summary><b>🛍️ Business, Customer & Marketing Analytics</b></summary>
+<br>
 
 | Repository | What it's about |
 |---|---|
@@ -122,7 +144,11 @@ Here’s a collection of things I've worked on, grouped by the kind of question 
 | [Amazon Customer Behaviour Analysis](https://github.com/T3MP35TT/Amazon-Customer-Behavior-Analysis) | Purchasing patterns, customer segments, and engagement trends using Python and PySpark. |
 | [CustomerIQ — AI Retention Analytics](https://github.com/T3MP35TT/CustomerIQ-AI-Retention-Analytics) | Customer retention, churn modelling, and an integrated analytics application using Power BI, FastAPI, and Ollama. |
 
-### 🚦 Mobility, Operations & Logistics Analytics
+</details>
+
+<details>
+<summary><b>🚦 Mobility, Operations & Logistics Analytics</b></summary>
+<br>
 
 | Repository | What it's about |
 |---|---|
@@ -131,7 +157,11 @@ Here’s a collection of things I've worked on, grouped by the kind of question 
 | [NYC Taxi EDA — Demand Optimization](https://github.com/T3MP35TT/EDA_Optimising_NYC_Taxis) | Taxi demand patterns, peak periods, trip behaviour, and high-activity zones. |
 | [Delivery Time Estimation — Linear Regression](https://github.com/T3MP35TT/Delivery-Time-Estimation-Using-Linear-Regression) | Delivery-time prediction, feature engineering, and factors associated with delivery duration. |
 
-### 💹 Finance, Investment & Real Estate Analytics
+</details>
+
+<details>
+<summary><b>💹 Finance, Investment & Real Estate Analytics</b></summary>
+<br>
 
 | Repository | What it's about |
 |---|---|
@@ -139,28 +169,51 @@ Here’s a collection of things I've worked on, grouped by the kind of question 
 | [Stock Market Analysis](https://github.com/T3MP35TT/Stock-Market-Analysis) | NSE-listed company comparisons, equity performance, financial indicators, and exploratory analysis. |
 | [Stock Market Portfolio Risk Analytics](https://github.com/T3MP35TT/Stock-Market-Portfolio-Risk-Analytics) | Returns, volatility, correlations, risk-return trade-offs, portfolio construction, and Sharpe ratio. |
 
-### 👥 People & Workforce Analytics
+</details>
+
+<details>
+<summary><b>👥 People & Workforce Analytics</b></summary>
+<br>
 
 | Repository | What it's about |
 |---|---|
 | [Predicting Employee Retention](https://github.com/T3MP35TT/Predicting-Employee-Retention) | Employee attrition patterns, retention drivers, and predictive analysis for workforce decisions. |
 | [Mental Health in Tech Analysis](https://github.com/T3MP35TT/Mental-Health-In-Tech-Analysis) | Survey analysis of treatment patterns, workplace factors, and support gaps in the technology sector. |
 
-### 🏏 Sports & Fitness Analytics
+</details>
+
+<details>
+<summary><b>🏏 Sports & Fitness Analytics</b></summary>
+<br>
 
 | Repository | What it's about |
 |---|---|
 | [Cricbuzz LiveStats — Cricket Analytics](https://github.com/T3MP35TT/Cricbuzz-LiveStats-Cricket-Analytics-Dashboard) | Player, team, match, venue, partnership, and time-based cricket performance. |
 | [Strava Fitness Analytics](https://github.com/T3MP35TT/Strava-Fitness-Analytics) | Fitness activity metrics, performance patterns, and trends through an analytics application. |
 
-### 🌿 Environment & Conservation Analytics
+</details>
+
+<details>
+<summary><b>🌿 Environment & Conservation Analytics</b></summary>
+<br>
 
 | Repository | What it's about |
 |---|---|
 | [Bird Species Observation Analysis](https://github.com/T3MP35TT/Bird-Species-Observation-Analysis) | Species observations, habitat, temporal and environmental patterns, and conservation-related insights. |
 
+</details>
+
 ---
 
-## 👋 Thanks for stopping by!
+## 📬 Let's connect
 
-Have a look around, explore anything that catches your eye, and feel free to connect or share feedback. I'm always learning, so this page will keep evolving too.
+<p align="center">
+  <a href="https://www.linkedin.com/in/btwitskartiksinghdatanalyst/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://sites.google.com/view/kartikeysingh09/home"><img src="https://img.shields.io/badge/Portfolio-Visit-4B6CB7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://x.com/btwitskartik"><img src="https://img.shields.io/badge/X-@btwitskartik-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
+
+<p align="center">
+  Thanks for stopping by! Have a look around, explore anything that catches your eye, and feel free to share feedback.<br>
+  I'm always learning, so this page will keep evolving too. ✨
+</p>
