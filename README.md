@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/btwitskartiksinghdatanalyst/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://sites.google.com/view/kartikeysingh09/home"><img src="https://img.shields.io/badge/Portfolio-Visit-4B6CB7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://x.com/btwitskartik"><img src="https://img.shields.io/badge/X-@btwitskartik-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://medium.com/@kartikey.singh09"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <img src="https://komarev.com/ghpvc/?username=T3MP35TT&label=Profile+views&color=2F81F7&style=for-the-badge" alt="Profile views" />
 </p>
 
@@ -71,8 +72,8 @@ Most of what I build involves **Python, SQL, dashboards, and a bit of curiosity*
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=T3MP35TT&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T3MP35TT&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=T3MP35TT&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=T3MP35TT&theme=tokyonight" alt="Top languages" />
 </p>
 
 <p align="center">
@@ -211,6 +212,7 @@ Grouped by the kind of question or domain they explore. Each link takes you to t
   <a href="https://www.linkedin.com/in/btwitskartiksinghdatanalyst/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://sites.google.com/view/kartikeysingh09/home"><img src="https://img.shields.io/badge/Portfolio-Visit-4B6CB7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://x.com/btwitskartik"><img src="https://img.shields.io/badge/X-@btwitskartik-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://medium.com/@kartikey.singh09"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 <p align="center">
