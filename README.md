@@ -101,7 +101,17 @@ Once set up, uncomment this:
 I treat my own GitHub activity as a dataset. A scheduled GitHub Action runs a Python script (pandas + matplotlib) every week, pulls my commit and language data from the GitHub API, redraws the charts below, and commits them back to this repo. The code is in [`scripts/generate_analytics.py`](./scripts/generate_analytics.py).
 
 <!-- ANALYTICS:START -->
-<p align="center"><i>Charts will appear here after the first run of the "Update GitHub analytics" workflow.</i></p>
+<p align="center"><img src="assets/commit-heatmap.png?v=2026-11-17" alt="Commit heatmap by weekday and hour" width="100%" /></p>
+<p align="center">
+  <img src="assets/domain-breakdown.png?v=2026-11-17" alt="Commits per analytics domain" width="49%" />
+  <img src="assets/language-mix.png?v=2026-11-17" alt="Language mix" width="49%" />
+</p>
+
+> 🤖 **Auto-generated** from 555 commits across 18 public repos · refreshed 2026-11-17
+>
+> - 🕘 Most active day: **Sunday**, busiest hour: **5 PM**
+> - 🏆 Most-worked domain: **Sports & Fitness**
+> - 🐍 Top language by code volume: **Jupyter Notebook**
 <!-- ANALYTICS:END -->
 
 ---
