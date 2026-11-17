@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Kartikey Singh
 
+<img align="right" src="./image.gif" alt="Data analytics illustration" width="300" />
+
 ### Data Analyst | Python • SQL • Power BI • Advanced Excel
 
 I turn operational, customer, financial, and product data into **reliable analysis, clear dashboards, and practical business recommendations**. I bring 3 years of experience in risk operations at Amazon, combined with hands-on analytics projects spanning business intelligence, customer behaviour, marketing, finance, forecasting, and operational performance.
