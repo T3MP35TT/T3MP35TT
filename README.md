@@ -96,6 +96,16 @@ Once set up, uncomment this:
 
 ---
 
+## 🔬 My GitHub, analysed
+
+I treat my own GitHub activity as a dataset. A scheduled GitHub Action runs a Python script (pandas + matplotlib) every week, pulls my commit and language data from the GitHub API, redraws the charts below, and commits them back to this repo. The code is in [`scripts/generate_analytics.py`](./scripts/generate_analytics.py).
+
+<!-- ANALYTICS:START -->
+<p align="center"><i>Charts will appear here after the first run of the "Update GitHub analytics" workflow.</i></p>
+<!-- ANALYTICS:END -->
+
+---
+
 ## 🧭 How I like to work with data
 
 ```text
