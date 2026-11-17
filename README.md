@@ -1,199 +1,277 @@
-<!--
-GitHub Profile README
-Repository: https://github.com/T3MP35TT/T3MP35TT
-To publish: create a PUBLIC repository named exactly `T3MP35TT` and place this file at its root as `README.md`.
--->
+# 👋 Hi, I'm Kartikey Singh
 
-<div align="center">
-  <h1>Hi, I'm Kartikey Singh 👋</h1>
-  <h3>Data Analyst | Python • SQL • Power BI • Business Intelligence</h3>
-  <p>Turning operational and customer data into clear analysis, reliable metrics, and practical business decisions.</p>
-  <p>
-    <a href="https://github.com/T3MP35TT"><img src="https://img.shields.io/badge/GitHub-T3MP35TT-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-    <a href="https://github.com/T3MP35TT/OLA-Ride-Insights"><img src="https://img.shields.io/badge/Featured%20Project-OLA%20Ride%20Insights-0A7B55?style=for-the-badge&logo=github" alt="OLA Ride Insights" /></a>
-  </p>
-</div>
+### Data Analyst | Python • SQL • Power BI • Advanced Excel
+
+I turn operational, customer, financial, and product data into **reliable analysis, clear dashboards, and practical business recommendations**. I bring 3 years of experience in risk operations at Amazon, combined with hands-on analytics projects spanning business intelligence, customer behaviour, marketing, finance, forecasting, and operational performance.
+
+📍 **India** · Open to Data Analyst opportunities · Willing to relocate
+
+[![GitHub](https://img.shields.io/badge/GitHub-T3MP35TT-181717?style=for-the-badge&logo=github)](https://github.com/T3MP35TT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/btwitskartiksinghdatanalyst/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4B6CB7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/kartikeysingh09/home)
+[![X](https://img.shields.io/badge/X-@btwitskartik-000000?style=for-the-badge&logo=x)](https://x.com/btwitskartik)
 
 ---
 
-## 👋 About Me
+## 📌 About Me
 
-I'm a data analytics professional focused on using **SQL, Python, Power BI, and statistical analysis** to translate complex datasets into business-focused insights.
+I am a data-focused professional with a **Post-Graduate Diploma in Data Science & AI from IIIT Bangalore** and 3 years of experience in Amazon's Risk Management function. My work combines structured investigation, data quality, analytical problem-solving, stakeholder communication, and process improvement.
 
-My background combines hands-on experience in **risk operations, fraud prevention, and customer-impacting processes** with practical analytics projects. This gives me an operational perspective when investigating performance: I look beyond the headline KPI to understand definitions, data quality, process drivers, exceptions, and the decisions an analysis should support.
+In my previous role, I investigated high-risk transactions, analyzed customer and account behaviour, identified anomalies, and worked with Risk, Compliance, and Operations teams. I handled **100+ complex cases per week while maintaining 100% SLA compliance**, using evidence-led investigation and structured workflows to support risk mitigation.
 
-I enjoy working across the analytics lifecycle:
+I now apply that operational experience to analytics projects: defining business questions, preparing and validating data, performing exploratory and statistical analysis, developing dashboards, evaluating models, and translating findings into decisions.
 
-- Understanding the business question and defining measurable outcomes.
-- Extracting, cleaning, validating, and transforming data.
-- Exploring patterns, segments, trends, and exceptions.
-- Building analytical datasets, SQL queries, and reusable metrics.
-- Developing dashboards and communicating findings to stakeholders.
-- Documenting assumptions, limitations, and recommended next steps.
+### What I focus on
 
-**Career focus:** Data Analyst and Business Intelligence opportunities where analytical rigour, operational understanding, and clear communication matter.
+- 📊 **Business intelligence:** KPI design, reporting, dashboard development, and performance monitoring.
+- 🐍 **Data analysis:** Python, pandas, NumPy, data cleaning, EDA, statistical analysis, and interpretation.
+- 🔎 **SQL and data management:** relational querying, joins, aggregations, validation, and reconciliation.
+- 📈 **Data visualization:** Power BI, Tableau, Matplotlib, and clear analytical storytelling.
+- 🧩 **Business problem-solving:** customer behaviour, operational efficiency, risk, finance, marketing, and retention analytics.
 
-## 🎯 What I Work On
+---
 
-| Area | Focus |
-|---|---|
-| Business analysis | KPI definition, performance monitoring, root-cause exploration, operational insights |
-| Data preparation | Data profiling, cleaning, transformation, validation, feature engineering |
-| SQL analytics | Joins, CTEs, aggregations, window functions, business queries, data checks |
-| Statistical analysis | Descriptive analysis, hypothesis testing, association analysis, model evaluation |
-| Business intelligence | Power BI reports, DAX measures, Power Query, interactive dashboards |
-| Python analytics | pandas, NumPy, visualization, scikit-learn, Streamlit |
-| Communication | Executive summaries, analytical documentation, recommendations, limitations |
+## 🧰 Technical Skills & Tools
 
-## 🛠️ Technical Skills
+### 🐍 Programming & Data Analysis
 
-### Languages & Querying
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
+- Data extraction, cleaning, transformation, and validation
+- Exploratory data analysis (univariate, bivariate, and multivariate)
+- Descriptive statistics, statistical testing, and interpretation
+- Feature engineering, trend analysis, segmentation, and pattern identification
 
-### Analytics & Data Processing
+### 🔎 SQL & Databases
 
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-</p>
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-### Business Intelligence & Visualization
+- SQL querying, filtering, joins, subqueries, CTEs, and aggregations
+- Grouping, conditional logic, ranking, and analytical queries
+- Relational data modelling, data integrity, and reconciliation
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-</p>
+### 📊 Business Intelligence & Reporting
 
-### Applications, Databases & Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+- Power BI dashboards, DAX, data modelling, and report navigation
+- Tableau visualization and dashboard development
+- Advanced Excel: PivotTables, VLOOKUP, XLOOKUP, and Power Query
+- KPI tracking, performance reporting, and data storytelling
+
+### ⚙️ Additional Project Tools
+
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+Project work also includes exposure to **PySpark, scikit-learn, FastAPI, and Ollama** in selected analytics and application projects.
+
+---
+
+## 💼 Professional Experience
+
+### Amazon Development Center India Pvt. Ltd.
+**Associate — Risk Management Team** · August 2022 – September 2025 · Remote, India
+
+- Investigated high-risk transactions using large datasets, behavioural indicators, and account analysis; resolved **100+ complex cases per week** while maintaining **100% SLA compliance**.
+- Identified fraud patterns and anomalies to support detection accuracy and risk-mitigation decisions.
+- Used Advanced Excel and internal CRM tools to conduct customer-behaviour deep dives and maintain accurate investigation records.
+- Collaborated with Risk, Compliance, and Operations stakeholders on complex cases and process improvements.
+- Applied root-cause analysis and structured workflows to improve case handling and resolution efficiency.
+- Created and maintained performance reporting to support operational monitoring, data validation, and decision-making.
+
+### Tata Consultancy Services — Forage Job Simulation
+**Data Analyst Job Simulation** · July 2026
+
+- Completed a virtual job simulation focused on data visualization and stakeholder-oriented analysis.
+- Prepared questions for a senior-leadership discussion and created visual outputs to support business decision-making.
+
+---
 
 ## 🚀 Featured Analytics Projects
 
-### 1. OLA Ride Insights — Ride-Sharing Analytics & Decision Support
+The projects below demonstrate how I apply analytics across different business domains. Each repository contains its own code, documentation, and project-specific methodology.
 
-**Business area:** Mobility, marketplace operations, booking reliability, customer experience  
-**Tools:** Python, SQL, SQLite, pandas, Power BI, DAX, Streamlit
+### 1. 🏡 [Real Estate Analytics & Forecasting](https://github.com/T3MP35TT/Real-Estate-Analytics-and-Forecasting)
 
-An end-to-end analysis of **103,024 Bengaluru ride bookings from July 2024**, developed to examine booking outcomes, cancellation patterns, vehicle performance, booking value, and ratings.
+**Domain:** Real estate · Forecasting · Machine learning · Decision support
 
-- Built a data preparation and validation workflow with documented business definitions.
-- Developed SQL analyses and reusable measures for booking and operational KPIs.
-- Created a multi-page Power BI report and a Streamlit application with interactive analysis and SQL exploration.
-- Translated observed booking failures into operational investigation priorities while documenting the dataset's one-month scope and value-definition limitations.
+A property analytics and investment decision-support prototype built around approximately **250K Indian property listings**. The work examines property-market patterns, develops proxy-based investment classification and price forecasting approaches, and emphasizes city-holdout evaluation and transparent model limitations.
 
-🔗 **[View OLA Ride Insights repository](https://github.com/T3MP35TT/OLA-Ride-Insights)**
+**Focus areas:** property analytics, feature engineering, model benchmarking, forecasting, out-of-sample evaluation, and investment-oriented interpretation.
 
-### 2. Sugar Cosmetics — Instagram Performance Analytics
+### 2. 💄 [Sugar Cosmetics Instagram Analytics](https://github.com/T3MP35TT/Sugar-Cosmetics-Instagram-Analytics)
 
-**Business area:** Digital marketing, social media engagement, content performance  
-**Tools:** Python, SQL, statistical analysis, predictive modelling, Streamlit
+**Domain:** Marketing analytics · Social media · Experimentation
 
-An analytics project focused on understanding Instagram content performance and audience engagement for a beauty brand.
+An end-to-end Instagram analytics project using Python, SQL, statistical analysis, predictive modelling, and Streamlit. It explores content engagement, audience behaviour, performance patterns, and experiment design to support evidence-led marketing decisions.
 
-- Structures engagement analysis around content, audience, and performance measures.
-- Uses statistical evaluation to distinguish observed differences from meaningful evidence.
-- Includes predictive-model assessment and an experimentation framework to support evidence-led marketing decisions.
-- Separates observed engagement results, model estimates, proposed experiments, and unverified business impact.
+**Focus areas:** engagement analysis, content performance, statistical inference, predictive evaluation, experiment planning, and business-impact measurement.
 
-🔗 **[Browse repositories](https://github.com/T3MP35TT?tab=repositories)** for the project source and associated deliverables.
+### 3. 🚕 [OLA Ride Insights](https://github.com/T3MP35TT/OLA-Ride-Insights)
 
-### 3. Real Estate Investment Advisor — Property Value & Investment Analysis
+**Domain:** Mobility · Operations · Customer experience · Business intelligence
 
-**Business area:** Real estate analytics, price trends, investment decision support  
-**Tools:** Python, pandas, statistical analysis, machine learning, Streamlit, MLflow
+An end-to-end analysis of **103K OLA ride-booking records from Bengaluru for July 2024**. The project combines a Python cleaning and EDA workflow, SQL analysis, a five-page Power BI report, and a Streamlit application with an interactive SQL Explorer.
 
-A project exploring property-market indicators and future-value estimation through historical housing data and model evaluation.
+**Focus areas:** booking conversion, cancellations, driver availability, vehicle performance, booking value, customer ratings, and operational reliability.
 
-- Develops a reproducible analytical workflow for property data and market-index analysis.
-- Compares forecasting approaches and evaluates their performance against baseline methods.
-- Presents investment-oriented outputs through an interactive application.
-- Treats predictions as decision-support estimates, not guaranteed returns or personalized financial advice.
+### 4. 📈 [Stock Market Analysis](https://github.com/T3MP35TT/Stock-Market-Analysis)
 
-🔗 **[Browse repositories](https://github.com/T3MP35TT?tab=repositories)** for the project source and documentation.
+**Domain:** Financial analytics · Equity research · Business intelligence
 
-### 4. Cricbuzz LiveStats — Cricket Analytics & Decision Support
+An equity research workspace covering **six NSE-listed companies across the automotive and IT sectors**. It combines SQLite and SQL analysis, notebook-based exploratory analysis, and an interactive Streamlit dashboard.
 
-**Business area:** Sports analytics, player performance, team and match analysis  
-**Tools:** Python, SQL, SQLite, pandas, Streamlit, REST APIs, statistical analysis
+**Focus areas:** equity performance, descriptive statistics, comparative analysis, financial indicators, and interactive reporting.
 
-An analytics application combining structured cricket data and live-match information to explore player, team, venue, and match performance.
+### 5. 🧠 [CustomerIQ — AI Retention Analytics](https://github.com/T3MP35TT/CustomerIQ-AI-Retention-Analytics)
 
-- Uses relational data and SQL challenges to analyze player and team performance.
-- Covers form, consistency, partnerships, venue context, and match outcomes.
-- Connects historical analytics with live information through an API-oriented application workflow.
+**Domain:** Customer analytics · Retention · Predictive analytics
 
-🔗 **[Browse repositories](https://github.com/T3MP35TT?tab=repositories)** for the project source and live application, where available.
+A customer intelligence and retention analytics application combining Power BI, predictive churn modelling, FastAPI, and Ollama to explore customer retention and support data-informed engagement strategies.
 
-## 📚 Certifications & Learning
+**Focus areas:** churn analysis, customer intelligence, retention indicators, predictive modelling, and application integration.
 
-- **AWS Certified Cloud Practitioner** — cloud fundamentals and AWS services.
-- **IBM Cybersecurity Analyst Professional Certificate** — security operations and cybersecurity foundations.
-- **Data Analytics postgraduate learning** — International Institute of Information Technology Bangalore (IIIT-B).
+### 6. 🏏 [Cricbuzz LiveStats — Cricket Analytics](https://github.com/T3MP35TT/Cricbuzz-LiveStats-Cricket-Analytics-Dashboard)
 
-I continue to strengthen my analytical toolkit through project-based work in SQL, Python, business intelligence, statistical methods, and applied machine learning.
+**Domain:** Sports analytics · SQL · Interactive applications
 
-## 🧭 How I Approach an Analytics Problem
+A cricket analytics platform built with Python, Streamlit, SQL, SQLite, Plotly, and Cricbuzz API integration. It combines live and historical cricket information, interactive dashboards, and **25 SQL analytical challenges**.
 
-```text
-Business Context
-       ↓
-Question & Success Measures
-       ↓
-Data Discovery and Profiling
-       ↓
-Cleaning, Transformation & Validation
-       ↓
-Exploratory and Statistical Analysis
-       ↓
-Metric / Model Evaluation
-       ↓
-Dashboard and Analytical Story
-       ↓
-Recommendations, Risks & Limitations
-```
-
-I aim to make every stage traceable: business definitions should be explicit, data quality should be checked, metrics should be reproducible, and recommendations should be proportional to the evidence.
-
-## 🌱 Current Focus
-
-- Building stronger end-to-end analytics products with Python, SQL, and Power BI.
-- Improving data modelling, DAX, and dashboard usability.
-- Applying statistical testing and model evaluation responsibly.
-- Connecting analytical findings to measurable operational and commercial questions.
-- Writing clearer documentation and executive-ready insight summaries.
-
-## 🤝 Connect & Collaborate
-
-I'm interested in connecting with analysts, BI professionals, data teams, and people building practical analytics solutions.
-
-<p>
-  <a href="https://github.com/T3MP35TT"><img src="https://img.shields.io/badge/GitHub-T3MP35TT-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <!-- Add your verified LinkedIn URL and professional email here if you want them displayed publicly. -->
-</p>
-
-- **GitHub:** [github.com/T3MP35TT](https://github.com/T3MP35TT)
-- **Location:** India
-- **Open to:** Data Analyst, Business Intelligence, and analytics-focused opportunities.
+**Focus areas:** player and team performance, match and venue analysis, partnerships, recent form, rankings, and decision-support views.
 
 ---
 
-<div align="center">
-  <i>Turning data into understanding, and understanding into better decisions.</i>
-  <br />
-  ⭐ Thanks for visiting my profile. Feel free to explore the repositories and share feedback.
-</div>
+## 📚 Project Portfolio
+
+A broader selection of projects across business intelligence, customer analytics, operations, finance, and exploratory research.
+
+### 📊 Business, Customer & Marketing Analytics
+
+| Project | Analytical focus |
+|---|---|
+| [Shopify Sales & Customer Behaviour Analysis](https://github.com/T3MP35TT/Shopify-Sales-and-Customer-Behaviour-Analysis) | Revenue, customer segmentation, retention, cohort analysis, and customer lifetime value. |
+| [Coffee Shop Sales Analysis — Power BI](https://github.com/T3MP35TT/Coffee-Shop-Sales-Analysis-Power-BI) | Sales trends, product and category performance, store comparisons, purchasing patterns, and time intelligence. |
+| [Amazon Customer Behaviour Analysis](https://github.com/T3MP35TT/Amazon-Customer-Behavior-Analysis) | Purchasing patterns, customer segmentation, and engagement trends using Python and PySpark. |
+| [CustomerIQ — AI Retention Analytics](https://github.com/T3MP35TT/CustomerIQ-AI-Retention-Analytics) | Predictive churn analysis and customer retention decision support. |
+| [Sugar Cosmetics Instagram Analytics](https://github.com/T3MP35TT/Sugar-Cosmetics-Instagram-Analytics) | Social engagement, content performance, statistical analysis, and experiment design. |
+
+### 🚦 Mobility, Operations & Performance Analytics
+
+| Project | Analytical focus |
+|---|---|
+| [OLA Ride Insights](https://github.com/T3MP35TT/OLA-Ride-Insights) | Ride-booking performance, cancellations, driver availability, vehicle analytics, and customer experience. |
+| [Namma Yatri Data Visualization](https://github.com/T3MP35TT/Advanced-Data-Visualisation-Analysis-on-Namma-Yatri-Data) | Ride-hailing demand patterns, conversion gaps, and zone-level performance in Power BI. |
+| [NYC Taxi EDA — Demand Optimization](https://github.com/T3MP35TT/EDA_Optimising_NYC_Taxis) | Taxi demand patterns, peak periods, trip behaviour, and high-activity zones. |
+| [Strava Fitness Analytics](https://github.com/T3MP35TT/Strava-Fitness-Analytics) | Fitness activity metrics, performance trends, and analytical decision support. |
+| [Delivery Time Estimation — Linear Regression](https://github.com/T3MP35TT/Delivery-Time-Estimation-Using-Linear-Regression) | Delivery-time prediction, feature engineering, and operational drivers. |
+| [Predicting Employee Retention](https://github.com/T3MP35TT/Predicting-Employee-Retention) | Employee attrition patterns and data-driven retention analysis. |
+
+### 💹 Finance & Risk Analytics
+
+| Project | Analytical focus |
+|---|---|
+| [Stock Market Analysis](https://github.com/T3MP35TT/Stock-Market-Analysis) | NSE equity research, company comparisons, and exploratory financial analysis. |
+| [Stock Market Portfolio Risk Analytics](https://github.com/T3MP35TT/Stock-Market-Portfolio-Risk-Analytics) | Returns, volatility, correlations, risk-return analysis, portfolio construction, and Sharpe ratio. |
+
+### 🔬 Exploratory & Research Analytics
+
+| Project | Analytical focus |
+|---|---|
+| [Mental Health in Tech Analysis](https://github.com/T3MP35TT/Mental-Health-In-Tech-Analysis) | Analysis of the 2014 Mental Health in Tech survey, including treatment patterns, workplace factors, and support gaps. |
+| [Bird Species Observation Analysis](https://github.com/T3MP35TT/Bird-Species-Observation-Analysis) | Species, habitat, temporal, environmental, behavioural, and conservation patterns. |
+| [Real Estate Analytics & Forecasting](https://github.com/T3MP35TT/Real-Estate-Analytics-and-Forecasting) | Property-market analysis, proxy investment classification, and price forecasting evaluation. |
+| [Cricbuzz LiveStats](https://github.com/T3MP35TT/Cricbuzz-LiveStats-Cricket-Analytics-Dashboard) | Player, team, match, venue, and time-based cricket performance analytics. |
+
+---
+
+## 🧭 My Approach to Analytics
+
+I approach analytical work as a business problem-solving process—not simply a collection of charts or models.
+
+```text
+Business Context & Problem Definition
+              ↓
+       Data Understanding
+              ↓
+     Data Cleaning & Validation
+              ↓
+     Exploratory Data Analysis
+              ↓
+   SQL Analysis & Feature Engineering
+              ↓
+ Statistical Analysis / Model Evaluation
+              ↓
+     KPI Design & Visualization
+              ↓
+    Business Interpretation
+              ↓
+ Recommendations & Next Steps
+```
+
+My priorities are to maintain clear metric definitions, validate data before interpreting it, select methods that fit the business question, communicate uncertainty, and distinguish observed relationships from causal effects.
+
+---
+
+## 🎓 Education
+
+**Post-Graduate Diploma — Data Science & AI**  
+International Institute of Information Technology Bangalore (IIIT Bangalore)  
+February 2025 – March 2026
+
+Relevant areas: data analysis, statistics, SQL, Python, machine learning, and data visualization.
+
+**Bachelor of Arts — English**  
+University of Delhi  
+April 2016 – April 2020
+
+---
+
+## 📜 Certifications
+
+- **AWS Certified Cloud Practitioner** — Amazon Web Services · June 2023
+- **IBM Cybersecurity Analyst Professional Certificate** — IBM · July 2023
+
+---
+
+## 🤝 What I Bring to a Data Team
+
+- **Operational context:** experience working with risk, compliance, customer, and operations workflows.
+- **Analytical discipline:** structured investigation, anomaly identification, data validation, and root-cause thinking.
+- **Business communication:** translating detailed analysis into clear findings for stakeholders.
+- **End-to-end project execution:** working from source data and metric definitions through analysis, visualization, documentation, and presentation.
+- **Continuous learning:** applying new analytical techniques across varied business domains and documenting their assumptions and limitations.
+
+---
+
+## 🌱 Current Focus
+
+- Building stronger end-to-end analytics and business intelligence solutions.
+- Improving SQL, Python, Power BI, and statistical analysis capabilities.
+- Developing reliable forecasting and predictive analytics workflows.
+- Strengthening model evaluation, experiment design, and business-impact measurement.
+- Communicating analytical findings through concise, decision-oriented storytelling.
+
+---
+
+## 📫 Connect With Me
+
+I am interested in Data Analyst and Business Intelligence opportunities, analytical problem-solving, and collaborative projects involving Python, SQL, Power BI, and business analytics.
+
+- 💼 **LinkedIn:** [linkedin.com/in/btwitskartiksinghdatanalyst](https://www.linkedin.com/in/btwitskartiksinghdatanalyst/)
+- 💻 **GitHub:** [github.com/T3MP35TT](https://github.com/T3MP35TT)
+- 🌐 **Portfolio:** [Kartikey Singh — Portfolio](https://sites.google.com/view/kartikeysingh09/home)
+- 𝕏 **X:** [@btwitskartik](https://x.com/btwitskartik)
+
+---
+
+⭐ Thanks for visiting my profile. Feel free to explore the repositories, review the documentation, and connect with me.
