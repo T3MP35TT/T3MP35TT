@@ -64,31 +64,12 @@ These are the tools and technologies you'll find across my notebooks, dashboards
 
 ## 📊 GitHub activity
 
-A small live snapshot of what's happening across my public GitHub activity. These cards are refreshed automatically with **GitHub Actions**.
+A live look at my public GitHub activity over the last 31 days. The graph is generated dynamically, so it updates as my GitHub activity changes.
 
 <p align="center">
-  <a href="https://profile-summary-for-github.com/user/T3MP35TT">
-    <img src="https://img.shields.io/badge/Explore-Live_GitHub_Analytics-2F81F7?style=for-the-badge&logo=github&logoColor=white" alt="Open live GitHub analytics" />
-  </a>
+  <img src="https://github-readme-activity-graph.ashutosh-dwivedi0710.workers.dev/graph?username=T3MP35TT&amp;theme=github-dark&amp;area=true&amp;hide_border=true&amp;hide_title=true&amp;days=31" alt="T3MP35TT's GitHub activity over the last 31 days" width="100%" />
 </p>
 
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub contribution overview" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Repositories per language" width="49%" />
-  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Most committed languages" width="49%" />
-</p>
-
-<p align="center">
-  <img src="./profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub statistics" width="49%" />
-  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" alt="GitHub activity by time" width="49%" />
-</p>
-
-> The first set of cards appears after the **Profile Summary Cards** workflow completes for the first time. The workflow is scheduled to refresh them daily and can also be run manually from the Actions tab.
-
-The live analytics page also provides repository-level breakdowns such as **stars by language, commits by language, top repositories by commits, and top repositories by stars**.
 
 ---
 
